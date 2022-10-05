@@ -1,5 +1,6 @@
-# dsgn270-a3
-# Mentorship Group 
+# DSGN 270 - Derian Valdes
+# Assignment 3
+# SVG Logo Design
 ## 'Each one Teach one'
 This logo is provided for a local business directed towards providing mentors for individuals of any age, and also an opportunity for people looking to give back and mentor.
 
